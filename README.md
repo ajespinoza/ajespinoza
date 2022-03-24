@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 💼 &nbsp; Working as a software developer with .NET.
 - 🌱 &nbsp; Learning more about Web development in React, Angular and Blazor.
 - ✍️ &nbsp; Specializing in the NET platform.
 
