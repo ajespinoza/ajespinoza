@@ -50,8 +50,8 @@
 <br/>
 
 <a href="https://github.com/ajespinoza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajespinoza&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajespinoza&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajespinoza&theme=gruvbox&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajespinoza&theme=gruvbox&layout=compact&count_private=true&langs_count=10" />
 </a>
 
 <br/>
