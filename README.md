@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a software developer with .NET.
-- 🌱 &nbsp; Learning more about Web development in React, Angular and Blazor.
+- 💼 &nbsp; Working as a Automation Software Engineer with .NET.
+- 🌱 &nbsp; Learning more about Web development in React, Angular and Vue.
 - ✍️ &nbsp; Specializing in the NET platform.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -17,6 +17,7 @@
   ![NET Core](https://img.shields.io/badge/-NET%20Core-blue)
   ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-blue)
   ![WepAPI](https://img.shields.io/badge/-WepAPI-blue)
+  ![Minimal WebApi](https://img.shields.io/badge/-MinimalWebApi-blue)
   ![WebForms](https://img.shields.io/badge/-WebForms-blue)
   ![WinForms](https://img.shields.io/badge/-WinForms-blue)
   ![WPF](https://img.shields.io/badge/-WPF-blue)
